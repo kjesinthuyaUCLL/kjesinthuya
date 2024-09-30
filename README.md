@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjesinthuya
+- 👋 Hi, I’m Angela
 - 👀 I’m interested in numbers and puzzles
 - 🌱 I’m currently learning computer science
 - 💞️ I’m from Myanmar
